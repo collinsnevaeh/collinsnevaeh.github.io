@@ -1,0 +1,21 @@
+/*applies tot he whole webpage */
+*{
+  font-size: 20px
+}
+/*applies to only the divide*/
+div {
+  margin-top: 50px;
+  margin-left: 40px;
+
+#border {
+    border-style: dotted;
+    border-color: AliceBlue;
+
+  }
+
+
+  #colorful {
+    color: orange:
+
+  }
+}
